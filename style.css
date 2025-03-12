@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(0, 0, 0, 0.784);
+}
+
+.main_text{
+    color: white;
+}
+
+.title_text{
+    text-align: center;
+}
+.text_href{
+    color: white;
+}
+
+/* .description_text{
+    color: white;
+} */
+.list_description{
+    color: white;
+}
