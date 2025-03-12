@@ -6,7 +6,7 @@
 1. Завантажити zip файл та розпакувати.
 2. Знайти файл index.html та натиснути два рази.
 
-![GitHub Actions Status](https://github.com/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПО/workflows/CI/badge.svg)
-![GitHub issues](https://img.shields.io/github/issues/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПО)
-![GitHub forks](https://img.shields.io/github/forks/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПО)
-![GitHub stars](https://img.shields.io/github/stars/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПО)
+![GitHub Actions Status](https://github.com/S-tarry/my-first-project/workflows/CI/badge.svg)
+![GitHub issues](https://img.shields.io/github/issues/S-tarry/my-first-project)
+![GitHub forks](https://img.shields.io/github/forks/S-tarry/my-first-project)
+![GitHub stars](https://img.shields.io/github/stars/S-tarry/my-first-project)
